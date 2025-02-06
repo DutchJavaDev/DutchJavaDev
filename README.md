@@ -1,4 +1,4 @@
-# 💫 About Me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/boris-m-473987153/) 
+# 💫 About Me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boris-akum-m-473987153/) 
 Programming in space in preparation for mars.
 <br>All Jokes aside, I enjoy programming as a hobby and as a professional<br>
 My second favorite hobby is calisthenics.
